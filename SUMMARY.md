@@ -4,5 +4,4 @@
 * [Prerequisites](prereq.md)
 * [Conclusion](conclusion.md)
 * [test](test.md)
-* [Intro](intro.md)
 
