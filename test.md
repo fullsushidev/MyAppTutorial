@@ -53,27 +53,27 @@ public class GuiApp1 {
 
 ---
 .
-> #### Title
+> #### None
 > Content
 
 .
-> #### primary::Title
+> #### primary::Primary
 > Content
 
 .
-> #### success::Title
+> #### success::Success
 > Content
 
 .
-> #### danger::Title
+> #### danger::Danger
 > Content
 
 .
-> #### warning::Title
+> #### warning::Warning
 > Content
 
 .
-> #### info::Title
+> #### info::Info
 > Content
 
 ___
