@@ -12,7 +12,7 @@ Good luck!
 #### info::Title
 
 
-#### type::Title
+info::Title
 
 Content
 
