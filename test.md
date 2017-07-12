@@ -2,19 +2,22 @@
 
 If you're doing the tutorial at home, not at one of the [Django Girls events](https://djangogirls.org/events/), you can completely skip this chapter now and go straight to the [How the Internet works](../how_the_internet_works/README.md) chapter.
 
-___
-
+---
 > #### primary::Title
-Content
+> Content
+
 
 > #### success::Title
 Content
 
+
 > #### danger::Title
 Content
 
+
 > #### warning::Title
 Content
+
 
 > #### info::Title
 Content
