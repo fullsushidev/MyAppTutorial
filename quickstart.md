@@ -7,10 +7,9 @@ Follow this tutorial if you haven’t installed the our SDK yet, here you will l
 > * For more detailed information about the SDK, check out our [API Reference](http://parseplatform.org/Parse-SDK-Android/api/ "Parse-SDK-Android").
 
 ## Prerequisites
-{% include "./quickstart/prereq.md" %}
+
 
 ## Installing SDK
-{% include "./quickstart/instaling-sdk.md" %}
+
 
 ## Conclusion
-{% include "./quickstart/conclusion.md" %}
