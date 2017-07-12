@@ -4,10 +4,10 @@
 
 * [Introduction](README.md)
 * [Before you start](prereq.md)
-* [Quickstart](quickstart.md)
-  * [Prerequisites](quickstart.md#prereq)
-  * [Installing SDK](quickstart.md#instaling-sdk)
-  * [Conclusion](quickstart.md#conclusion)
+* [Quickstart](quickstart.md#quick-intro)
+  * [Prerequisites](quickstart.md#quick-prereq)
+  * [Installing SDK](quickstart.md#quick-instaling)
+  * [Conclusion](quickstart.md#quick-conclusion)
 * [testeeeeee](testeeeeee.md)
 
 ## iOS
