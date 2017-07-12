@@ -12,19 +12,17 @@
   * [Prerequisites](quickstart/prereq.md)
   * [Installing SDK](quickstart/instaling-sdk.md)
   * [Conclusion](quickstart/conclusion.md)
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
+g
+g
+g
+g
+g
+g
+g
+g
+g
+g
 ## Before you start {#prereq}
 {% include "./prereq.md" %}
 
