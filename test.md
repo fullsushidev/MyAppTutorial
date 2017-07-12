@@ -5,11 +5,11 @@ If you're doing the tutorial at home, not at one of the [Django Girls events](ht
 Good luck!
     
     
-    > #### primary::Title
-    > #### success::Title
-    > #### danger::Title
-    > #### warning::Title
-    > #### info::Title
+#### primary::Title
+#### success::Title
+#### danger::Title
+#### warning::Title
+#### info::Title
 
 
 
