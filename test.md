@@ -13,7 +13,7 @@ In the workshop you will be building a blog, and there are a few setup tasks in 
 
 <!--sec data-title="Chromebook setup (if you're using one)"
 data-id="chromebook_setup" data-collapse=true ces-->
-{% include "/prereq.md" %}
+{% include "prereq.md" %}
 <!--endsec-->
 
 # Install Python
