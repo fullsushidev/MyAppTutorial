@@ -1,9 +1,11 @@
 ## Prerequisites
 
-> #### info::Title
+> #### info::
 > In this tutorial we used:
-> Ubuntu Xenial 16.04.2 LTS
-> 
+> * Ubuntu 16.04.2 LTS (Xenial)
+> * Android Studio 2.3.3
+
+
 
 <!--
 \[Summary of\]
