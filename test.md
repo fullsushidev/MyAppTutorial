@@ -16,5 +16,8 @@ data-id="chromebook_setup" data-collapse=true ces-->
 {% include "prereq.md" %}
 <!--endsec-->
 
+
+hhhh
+
 # Install Python
 {% include "/python_installation/instructions.md" %}
