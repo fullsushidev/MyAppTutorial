@@ -25,6 +25,16 @@ If you're doing the tutorial at home, not at one of the [Django Girls events](ht
 ___
 
 
+{% label %}test.js{% endlabel %}
+```js
+var a = 10;
+a = a + 1;
+
+console.log(a);
+```
+
+---
+
 gitbook-plugin-sectionx
 ===
 
