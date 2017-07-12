@@ -2,8 +2,8 @@
 
 ## ANDROID
 
-* [Introduction](README.md)
-* [Before you start](prereq.md)
+* [Introduction](README.md#intro)
+* [Before you start](prereq.md#prerq)
 * [Quickstart](quickstart.md#quick-intro)
   * [Prerequisites](quickstart.md#quick-prereq)
   * [Installing SDK](quickstart.md#quick-instaling)
