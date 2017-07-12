@@ -2,8 +2,10 @@
 **Welcome,**
 In this first book you will find Android related tutorials that will help you to explore the basics functionalities of Back4app.com
 
-> #### info::Disclaimer
-> To avoid compatibility issues in every tutorial you will find a box like these to inform you about what program versions were used in the tutorial.
+> #### info::Hint
+> To avoid compatibility issues and other errors, in each tutorial you will find a box like this to inform you about what programs versions were used to build it and other stuff that you would need.
+> 
+
 
 
 
