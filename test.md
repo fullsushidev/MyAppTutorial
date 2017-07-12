@@ -3,6 +3,16 @@
 If you're doing the tutorial at home, not at one of the [Django Girls events](https://djangogirls.org/events/), you can completely skip this chapter now and go straight to the [How the Internet works](../how_the_internet_works/README.md) chapter.
 
 ---
+
+{% label %}test.js{% endlabel %}
+```js
+var a = 10;
+a = a + 1;
+
+console.log(a);
+```
+
+---
 > #### primary::Title
 > Content
 
@@ -24,16 +34,6 @@ If you're doing the tutorial at home, not at one of the [Django Girls events](ht
 
 ___
 
-
-{% label %}test.js{% endlabel %}
-```js
-var a = 10;
-a = a + 1;
-
-console.log(a);
-```
-
----
 
 gitbook-plugin-sectionx
 ===
