@@ -3,9 +3,15 @@
 If you're doing the tutorial at home, not at one of the [Django Girls events](https://djangogirls.org/events/), you can completely skip this chapter now and go straight to the [How the Internet works](../how_the_internet_works/README.md) chapter.
 
 Good luck!
+    
+    
+    > #### primary::Title
+    > #### success::Title
+    > #### danger::Title
+    > #### warning::Title
+    > #### info::Title
 
-# Installation
-In the workshop you will be building a blog, and there are a few setup tasks in the tutorial which would be good to work through beforehand so that you are ready to start coding on the day.
+
 
 
 gitbook-plugin-sectionx

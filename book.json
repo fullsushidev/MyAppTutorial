@@ -10,15 +10,12 @@
 	},
 	"plugins": [
 		"heading-anchors",
-		"richquotes",
+		"bootstrap-callout",
 		"github",
 		"codeblock-label",
 		"sectionx"
 	],
 	"pluginsConfig": {
-		"richquotes": {
-			"default": false
-		},
 		"github": {
 			"url": "https://github.com/senaingrid"
 		}
