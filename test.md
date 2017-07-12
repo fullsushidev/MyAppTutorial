@@ -6,21 +6,21 @@ If you're doing the tutorial at home, not at one of the [Django Girls events](ht
 > #### primary::Title
 > Content
 
-
+.
 > #### success::Title
-Content
-
+> Content
+.
 
 > #### danger::Title
-Content
+> Content
 
-
+.
 > #### warning::Title
-Content
-
+> Content
+.
 
 > #### info::Title
-Content
+> Content
 
 ___
 
