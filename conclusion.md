@@ -1,18 +1,18 @@
-1. numered list  
-   1. sub numered list  
+1. numered list
+   1. sub numered list
       1. sub sub numered list
 
-2. bullet list
+* bullet list
 
-   * sub bulle list
-     * sub sub bullet list
+  * sub bulle list
+    * sub sub bullet list
 
-3. [x] tasklist
+* [x] tasklist
 
-4. [ ] tasklist
+* [ ] tasklist
 
-   * [ ] subtasklist
-   * [ ] sub sub tasklist
+  * [ ] subtasklist
+    * [ ] sub sub tasklist
 
 > Block
 >
