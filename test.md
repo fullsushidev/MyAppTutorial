@@ -12,6 +12,10 @@ Good luck!
 #### info::Title
 
 
+#### type::Title
+
+Content
+
 
 
 gitbook-plugin-sectionx
