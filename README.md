@@ -1,6 +1,5 @@
 # Introduction
-Welcome, to Back4App Tutorials book.
-
+**Welcome,**
 In this first book you will find Android related tutorials that will help you to explore the basics functionalities of Back4app.com
 
 > #### warning::Disclaimer
