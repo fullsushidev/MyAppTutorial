@@ -1,9 +1,10 @@
 ## Before you start
 
 > #### info::
-> In this tutorial we used:
-> * Ubuntu 16.04.2 LTS (Xenial)
-> * Android Studio 2.3.3
+> Here you can find good references to create your first app and understand more about API's, Parse, Java, etc.
+
+* Reference 1
+* Reference 2
 
 
 
