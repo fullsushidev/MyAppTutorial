@@ -1,42 +1,42 @@
-# h1
+    1. numered list
+       1. sub numered list
+          1. sub sub numered list
 
-## h2
 
-### h3
+    * bullet list
+      * sub bulle list
+        * sub sub bullet list
 
-#### h4
-
-##### h5
-
-###### h6
-
-parag
-
-1. numered list
-sub numered list
-sub sub numered list
-
-2. bullet list
-
-* sub bulle list
-* sub sub bullet list
-
-3. [x] tasklist
-
-4. [ ] tasklist
-
-* [ ] subtasklist
-* [ ] sub sub tasklist
+* [x] tasklist
+* [ ] tasklist
+    * [ ] subtasklist
+        * [ ] sub sub tasklist
 
 > Block
->
 > Quote
 
-```markdown
-CODEBLOCK
-In this first book you will find Android related tutorials that will
+```java
+//Imports are listed in full to show what's being used
+//could just import javax.swing.* and java.awt.* etc..
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JComboBox;
+import javax.swing.JButton;
+import javax.swing.JLabel;
+import javax.swing.JList;
+import java.awt.BorderLayout;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
 
-> #### info::Disclaimer
+public class GuiApp1 {
+    
+    //Note: Typically the main method will be in a
+    //separate class. As this is a simple one class
+    //example it's all in the one class.
+    public static void main(String[] args) {
+        
+        new GuiApp1();
+    }
 CODEBLOCK
 ```
 
@@ -45,6 +45,7 @@ CODEBLOCK
 | l2c1 | l2c2 | l2c3 |
 | l3c1 | l3c2 | l3c3 |
 
+---
 If you're doing the tutorial at home, not at one of the [Django Girls events](https://djangogirls.org/events/), you can completely skip this chapter now and go straight to the [How the Internet works](../how_the_internet_works/README.md) chapter.
 
 ---
