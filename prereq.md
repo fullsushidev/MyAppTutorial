@@ -1,5 +1,11 @@
-### Prerequisites
+## Prerequisites
 
+> #### info::Title
+> In this tutorial we used:
+> Ubuntu Xenial 16.04.2 LTS
+> 
+
+<!--
 \[Summary of\]
 
 What did you need instaled
@@ -24,5 +30,7 @@ If you don know about X, please conside
 
 parag
 
+
+-->
 
 
