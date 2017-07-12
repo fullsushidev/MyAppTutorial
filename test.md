@@ -7,38 +7,14 @@
       * sub bulle list
         * sub sub bullet list
 
-* [x] tasklist
-* [ ] tasklist
-    * [ ] subtasklist
-        * [ ] sub sub tasklist
+    * [x] tasklist
+    * [ ] tasklist
+        * [ ] subtasklist
+            * [ ] sub sub tasklist
 
 > Block
 > Quote
 
-```java
-//Imports are listed in full to show what's being used
-//could just import javax.swing.* and java.awt.* etc..
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JComboBox;
-import javax.swing.JButton;
-import javax.swing.JLabel;
-import javax.swing.JList;
-import java.awt.BorderLayout;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
-
-public class GuiApp1 {
-    
-    //Note: Typically the main method will be in a
-    //separate class. As this is a simple one class
-    //example it's all in the one class.
-    public static void main(String[] args) {
-        
-        new GuiApp1();
-    }
-CODEBLOCK
-```
 
 | table l1c1 | l1c2 | l1c3 |
 | :--- | :--- | :--- |
