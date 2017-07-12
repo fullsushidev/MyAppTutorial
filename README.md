@@ -8,11 +8,12 @@ In this first book you will find Android related tutorials that will help you to
 
 
 ## Articles
-* [Prerequisites](prereq.md)
+* [Before you start](prereq.md)
 * [Quickstart](quickstart.md)
   * [Prerequisites](quickstart/prereq.md)
   * [Installing SDK](quickstart/instaling-sdk.md)
   * [Conclusion](quickstart/conclusion.md)
+
 
 
 
