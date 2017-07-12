@@ -6,14 +6,15 @@
 > 
 
 
-
-
 ## Articles
 * [Before you start](prereq.md)
 * [Quickstart](quickstart.md)
   * [Prerequisites](quickstart/prereq.md)
   * [Installing SDK](quickstart/instaling-sdk.md)
   * [Conclusion](quickstart/conclusion.md)
+
+## Before you start {#prereq}
+{% include "./prereq.md" %}
 
 
 

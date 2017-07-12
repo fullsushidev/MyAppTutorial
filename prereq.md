@@ -1,5 +1,3 @@
-## Before you start {#prereq}
-
 > #### info::
 > Here you can find good references to create your first app and understand more about API's, Parse, Java, etc.
 
