@@ -1,4 +1,3 @@
-## Prerequisites
 > #### info
 > **To build this tutorial we used**
 > * Ubuntu 16.04.2 LTS (Xenial)
