@@ -9,16 +9,16 @@ If you're doing the tutorial at home, not at one of the [Django Girls events](ht
 .
 > #### success::Title
 > Content
-.
 
+.
 > #### danger::Title
 > Content
 
 .
 > #### warning::Title
 > Content
-.
 
+.
 > #### info::Title
 > Content
 
