@@ -10,12 +10,10 @@
   * [Step 2 - App Permissions and Libs](quickstart.md#quick-libs)
   * [Step 3 - Initializing Parse](quickstart.md#quick-init-parse)
   * [Conclusion](quickstart.md#quick-conclusion)
-* [testeeeeee](testeeeeee.md)
-
+---
 ## iOS
 
-* [2](2.md)
-* [test](test.md)
+* [Future link](README.md)
 
 ---
 
