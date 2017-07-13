@@ -11,7 +11,7 @@ Parse.initialize(new Parse.Configuration.Builder(this)
 );
 ```
 Now, go to your App Dashboard at Back4App website, to find your Application ID and your Client Key
-Click on Features -> Core Settings -> Server
+Click on `Features` > `Core Settings` > `Server`
 
 <!--
 You should have something like these:
