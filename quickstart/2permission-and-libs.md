@@ -12,6 +12,7 @@ Add the following code to your `AndroidManifest.xml` file to grant this permissi
 You should have something like these:
 <br>[JPG HERE]
 
+<BR>
 #### Adding Libs
 To call all Parse provided functions you will need to import libs to your code.
 

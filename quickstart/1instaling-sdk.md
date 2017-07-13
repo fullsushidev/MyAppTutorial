@@ -2,14 +2,10 @@
 > Follow this tutorial if you haven’t installed our SDK yet.
 
 In your Android Studio project, go to the `app/build.gradle` file:
-> #### warning::
-> Be careful, there's two files with `build.gradle` name.
-
-In your Android Studio project, go to the `app/build.gradle` file:
-> #### warning::
-> Be careful, there's two files with `build.gradle` name.
+<br><sub>Be careful, there's two files with `build.gradle` name:</sub>
 ![](/assets/opengradle.gif)
 
+<BR>
 Add the Maven repository before `dependencies {}`:
 {% label %}build.gradle{% endlabel %}
 ```java
@@ -19,6 +15,7 @@ repositories{
 ```
 ![](/assets/addmaven.gif)
 
+<BR>
 Now you can add SDKs that we would use by copying and pasting the following lines inside `dependencies {}`:
   {% label %}build.gradle{% endlabel %}
   ```java
@@ -36,6 +33,7 @@ Now you can add SDKs that we would use by copying and pasting the following line
 And at the end your code will look something like this:
 ![](/assets/addSDK.gif)
 
+<BR>
 Sync your `build.gradle` and we are ready to go.
 
-[GIF HERE][GIF HERE][GIF HERE][GIF HERE][GIF HERE]
+[GIF HERE]
