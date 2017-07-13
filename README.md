@@ -1,9 +1,10 @@
 # Introduction {#intro}
-**Welcome,** in this first book you will find Android related tutorials that will help you to explore the basics functionalities of Back4app.com
+**Welcome,** in this first book you will find Android related tutorials that will help you to explore the basics functionalities of Back4app.
+
 
 > #### info::Hint
 > To avoid compatibility issues and other errors, in each tutorial you will find a box like this to inform you about what programs versions were used to build it and other stuff that you would need.
-> 
+>
 
 
 ## Articles
@@ -13,28 +14,8 @@
   * [Installing SDK](quickstart/instaling-sdk.md)
   * [Conclusion](quickstart/conclusion.md)
 
-g
-g
-g
-g
-g
-g
-g
-g
-g
-g
-
-ggfdg
-g
-gfgfd
-
-gdfgfg
-
-dgfg
-ggfd
 
 
-gdfgdfgd
 ## Before you start {#prereq}
 {% include "./prereq.md" %}
 

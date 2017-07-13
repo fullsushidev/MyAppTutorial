@@ -6,7 +6,7 @@
   * [Before you start](README.md#prereq)
 * [Quickstart](quickstart.md#quick-intro)
   * [Prerequisites](quickstart.md#quick-prereq)
-  * [Installing SDK](quickstart.md#quick-instaling)
+  * [Step 1 - Installing SDK](quickstart.md#quick-installing)
   * [Conclusion](quickstart.md#quick-conclusion)
 * [testeeeeee](testeeeeee.md)
 
@@ -19,4 +19,3 @@
 
 * [FAQ](README.md)
 * [Examples](README.md)
-

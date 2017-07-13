@@ -9,14 +9,8 @@ Follow this tutorial if you haven’t installed the our SDK yet, here you will l
 ## Prerequisites {#quick-prereq}
 {% include "./quickstart/prereq.md" %}
 
-## Installing SDK {#quick-instaling}
+## Step 1 - Installing SDK {#quick-installing}
 {% include "./quickstart/instaling-sdk.md" %}
 
 ## Conclusion {#quick-conclusion}
 {% include "./quickstart/conclusion.md" %}
-
-
-
-
-
-
