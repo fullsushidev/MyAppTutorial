@@ -1,12 +1,9 @@
 > #### info::Note
 > Follow this tutorial if you haven’t installed our SDK yet.
-<<<<<<< 09c6b20839f8a2a22cd1ed4abecf72f9597bbc3e
-=======
 
 In your Android Studio project, go to the `app/build.gradle` file:
 > #### warning::
 > Be careful, there's two files with `build.gradle` name.
->>>>>>> atom2
 
 In your Android Studio project, go to the `app/build.gradle` file:
 > #### warning::
