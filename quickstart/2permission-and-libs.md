@@ -9,8 +9,8 @@ Add the following code to your `AndroidManifest.xml` file to grant this permissi
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 <uses-permission android:name="android.permission.INTERNET"/>
 ```
-You should have something like these:
-<br>[JPG HERE]
+<!--You should have something like these:
+<br>[JPG HERE]-->
 
 <BR>
 #### Adding Libs
@@ -23,5 +23,7 @@ import com.parse.Parse;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 ```
-You should have something like these:
-<br>[JPG HERE]
+<!--YYou should have something like these:
+<br>[JPG HERE]-->
+
+
