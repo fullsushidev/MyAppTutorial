@@ -36,4 +36,4 @@ And at the end your code will look something like this:
 <BR>
 Sync your `build.gradle` and we are ready to go.
 
-![](/assets/syncgradle.gif){:height="200px"}
+![gif](/assets/syncgradle.gif)
