@@ -26,6 +26,8 @@ Now you can add SDKs that we would use by copying and pasting the following line
   compile 'com.android.support:appcompat-v7:25.3.1'
   testCompile 'junit:junit:4.12'
   ```
+  {% label %}build.gradle{% endlabel %}
+
 And at the end your code will look something like this:
 ![](/assets/addSDK.gif)
 
