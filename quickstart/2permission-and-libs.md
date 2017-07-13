@@ -7,7 +7,7 @@ Add the following code to your `AndroidManifest.xml` to grant this permission to
 ```xml
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 <uses-permission android:name="android.permission.INTERNET"/>
-```
+``` 
 You should have something like these:
 <br>[JPG HERE]
 
