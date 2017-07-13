@@ -14,10 +14,10 @@ Here you will learn how to get our SDK up and running in Android Studio.
 {% include "./quickstart/1instaling-sdk.md" %}
 
 ## Step 2 - App Permissions and Libs {#quick-libs}
-{% include "./quickstart/3init-parse.md" %}
+{% include "./quickstart/2permission-and-libs.md" %}
 
 ## Step 3 - Initializing Parse {#quick-init-parse}
 {% include "./quickstart/3init-parse.md" %}
 
 ## Conclusion {#quick-conclusion}
-{% include "./quickstart/conclusion.md" %}
+{% include "./quickstart/4conclusion.md" %}
