@@ -1,13 +1,14 @@
 #### Granting Permissions
-Parse is a backend as a service (BaaS), that provides you with an application development platform in the cloud. Therefore, **it requires internet permission to work.**
+Parse is a [backend as a service (BaaS)](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service), that provides you with an application development platform in the cloud.
+Therefore, **it requires you to grant internet permission to work.**
 
-Add the following code to your `AndroidManifest.xml` to grant this permission to your Android App:
+Add the following code to your `AndroidManifest.xml` file to grant this permission to your Android App:
 
 {% label %}AndroidManifest.xml{% endlabel %}
 ```xml
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 <uses-permission android:name="android.permission.INTERNET"/>
-``` 
+```
 You should have something like these:
 <br>[JPG HERE]
 

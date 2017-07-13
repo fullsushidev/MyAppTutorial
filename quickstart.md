@@ -1,6 +1,5 @@
-# Introduction {#quick-intro}
+# QuickStart Introduction {#quick-intro}
 
-Follow this tutorial if you haven’t installed our SDK yet.
 Here you will learn how to get our SDK up and running in Android Studio.
 
 > #### info::

@@ -1,5 +1,9 @@
-In your Android Studio project, go to the `app/build.gradle` file:
+> #### info::Note
+> Follow this tutorial if you haven’t installed our SDK yet.
 
+In your Android Studio project, go to the `app/build.gradle` file:
+> #### warning::
+> Be careful, there's two files with `build.gradle` name.
 ![](/assets/opengradle.gif)
 
 Add the Maven repository before `dependencies {}`:
