@@ -31,4 +31,4 @@ And at the end your code will look something like this:
 
 Sync your `build.gradle` and we are ready to go.
 
-[GIF HERE]
+[GIF HERE][GIF HERE][GIF HERE][GIF HERE][GIF HERE]
